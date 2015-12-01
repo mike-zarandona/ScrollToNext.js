@@ -1,0 +1,12 @@
+# Dependency directory
+node_modules
+
+# NPM cache directory
+.npm
+
+# Local development garbage file
+index.html
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
