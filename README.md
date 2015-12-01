@@ -1,11 +1,10 @@
 # ScrollToNext.js [![GitHub version](https://badge.fury.io/gh/mike-zarandona%2Fscrolltonext.js.png)](https://badge.fury.io/gh/mike-zarandona%2Fscrolltonext.js) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 A jQuery plugin to quickly and easily scroll to the "next thing" using best performance practices.
 
+[Demo on CodePen.io](http://codepen.io/mike-zarandona/full/QyLjep/)
+
 ### Why Would Anyone Use This?
 **I'm glad you asked.** Some folks might write a custom function to handle something as simple as on-page navigation scrolling. However, others work on a lot of different projects and need a solid bit of functionality which they can plug in quickly and get on with their lives. ScrollToNext.js also uses best practices and keeps performance and flexibility in mind. _Why reinvent the wheel?_  
-
-### Features
-[Demo on CodePen.io]()
 
 ## Requirements
 - jQuery
